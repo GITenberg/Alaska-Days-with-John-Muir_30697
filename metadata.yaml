@@ -1,0 +1,32 @@
+_repo: Alaska-Days-with-John-Muir_30697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Young, Samuel Hall
+    alias: Young, S. Hall (Samuel Hall)
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '34761'
+    url: http://www.gutenberg.org/2009/agents/34761
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2009-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30697'
+  lccn: '15021159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'Muir, John, 1838-1914 -- Travel -- Alaska'
+- !lcc 'F850.5'
+- !lcsh 'Young, Samuel Hall, 1847-1927 -- Travel -- Alaska'
+- !lcsh 'Natural history -- Alaska'
+title: Alaska Days with John Muir
+url: http://www.gutenberg.org/ebooks/30697
